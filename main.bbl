@@ -1,0 +1,557 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{ref1}
+\selectlanguageifdefined{russian}
+Reinsel~D., Gantz~J., Rydning~J. The Digitization of the World from Edge to
+  Core: Tech. Rep.: : IDC White Paper, 2018.{}
+
+\bibitem{ref5}
+\selectlanguageifdefined{russian}
+Text Embeddings Reveal (Almost) As Much As Text~/ J.~X.~Morris, V.~Kuleshov,
+  V.~Shmatikov {[и~др.]}~// Proceedings of EMNLP.
+\newblock 2023.{}
+
+\bibitem{ref6}
+\selectlanguageifdefined{russian}
+Li~J. {[и~др.]}. Sentence Embeddings Leakage through Embedding Inversion
+  Attack~// Findings of ACL.
+\newblock 2023.{}
+
+\bibitem{ref7}
+\selectlanguageifdefined{russian}
+Gu~J. {[и~др.]}. {GEIA}: Gradient-based Embedding Inversion Attack.
+\newblock arXiv preprint arXiv:2304.08945.
+\newblock 2023.{}
+
+\bibitem{ref8}
+\selectlanguageifdefined{russian}
+Pan~X. {[и~др.]}. {TEIA}: Text Embedding Inversion Attacks.
+\newblock arXiv preprint arXiv:2305.08450.
+\newblock 2023.{}
+
+\bibitem{ref42}
+\selectlanguageifdefined{russian}
+Song~C., Raghunathan~A. Information Leakage in Embedding Models~// Proceedings
+  of ACM CCS.
+\newblock ACM, 2020.
+\newblock {С.}~377--390.{}
+
+\bibitem{ref40}
+\selectlanguageifdefined{russian}
+Membership Inference Attacks Against Machine Learning Models~/ R.~Shokri,
+  M.~Stronati, C.~Song {[и~др.]}~// 2017 IEEE Symposium on Security and
+  Privacy (SP).
+\newblock IEEE, 2017.
+\newblock {С.}~3--18.{}
+
+\bibitem{ref41}
+\selectlanguageifdefined{russian}
+Extracting Training Data from Large Language Models~/ N.~Carlini, F.~Tramer,
+  E.~Wallace {[и~др.]}~// 30th USENIX Security Symposium.
+\newblock USENIX Association, 2021.
+\newblock {С.}~2633--2650.{}
+
+\bibitem{ref45}
+\selectlanguageifdefined{russian}
+The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented
+  Generation ({RAG})~/ S.~Zeng, J.~Zhang, P.~He {[и~др.]}~// Findings of ACL
+  2024.
+\newblock 2024.
+\newblock {С.}~4505--4524.{}
+
+\bibitem{ref9}
+\selectlanguageifdefined{russian}
+{IBM Security}. Cost of a Data Breach Report 2024: Tech. Rep.: : Ponemon
+  Institute, 2024.{}
+
+\bibitem{ref11}
+\selectlanguageifdefined{russian}
+Regulation (EU) 2016/679 of the European Parliament and of the Council (General
+  Data Protection Regulation, {GDPR}).
+\newblock 2016.{}
+
+\bibitem{ref59}
+\selectlanguageifdefined{russian}
+О~персональных данных: Федеральный закон
+  от~27.07.2006 №~152-ФЗ (ред. от~24.06.2025).
+\newblock Собрание законодательства
+  Российской Федерации.
+\newblock 2006.
+\newblock №~31 (ч.~I). Ст.~3451.{}
+
+\bibitem{ref61}
+\selectlanguageifdefined{russian}
+Об~утверждении Состава и~содержания
+  организационных и~технических мер
+  по~обеспечению безопасности персональных
+  данных при~их~обработке в~информационных
+  системах персональных данных: Приказ
+  ФСТЭК России от~18.02.2013 №~21 (ред. от~14.05.2020).
+\newblock Российская газета.
+\newblock 2013.
+\newblock 22~мая. №~107.{}
+
+\bibitem{ref2}
+\selectlanguageifdefined{russian}
+{BERT}: Pre-training of Deep Bidirectional Transformers for Language
+  Understanding~/ J.~Devlin, M.-W.~Chang, K.~Lee {[и~др.]}~// Proceedings of
+  NAACL-HLT.
+\newblock 2019.
+\newblock {С.}~4171--4186.{}
+
+\bibitem{ref3}
+\selectlanguageifdefined{russian}
+Reimers~N., Gurevych~I. Sentence-{BERT}: Sentence Embeddings using Siamese
+  {BERT}-Networks~// Proceedings of EMNLP.
+\newblock 2019.
+\newblock {С.}~3982--3992.{}
+
+\bibitem{ref4}
+\selectlanguageifdefined{russian}
+Dale~D. rubert-tiny2: efficient distilled {BERT} for Russian.
+\newblock Hugging Face Model Hub.
+\newblock 2023.{}
+
+\bibitem{ref10}
+\selectlanguageifdefined{russian}
+Lewis~P. {[и~др.]}. Retrieval-Augmented Generation for Knowledge-Intensive
+  {NLP} Tasks~// Proceedings of NeurIPS.
+\newblock 2020.{}
+
+\bibitem{ref28}
+\selectlanguageifdefined{russian}
+Dense Passage Retrieval for Open-Domain Question Answering~/ V.~Karpukhin,
+  B.~Oguz, S.~Min {[и~др.]}~// Proceedings of EMNLP.
+\newblock 2020.
+\newblock {С.}~6769--6781.{}
+
+\bibitem{ref29}
+\selectlanguageifdefined{russian}
+Khattab~O., Zaharia~M. {ColBERT}: Efficient and Effective Passage Search via
+  Contextualized Late Interaction over {BERT}~// Proceedings of the 43rd
+  International ACM SIGIR Conference.
+\newblock ACM, 2020.
+\newblock {С.}~39--48.{}
+
+\bibitem{ref30}
+\selectlanguageifdefined{russian}
+Wang~L., Yang~N., Huang~X. {[и~др.]}. Text Embeddings by Weakly-Supervised
+  Contrastive Pre-training.
+\newblock arXiv preprint arXiv:2212.03533.
+\newblock 2022.{}
+
+\bibitem{ref34}
+\selectlanguageifdefined{russian}
+One Embedder, Any Task: Instruction-Finetuned Text Embeddings~/ H.~Su, W.~Shi,
+  J.~Kasai {[и~др.]}~// Findings of ACL.
+\newblock 2023.
+\newblock {С.}~1102--1121.{}
+
+\bibitem{ref35}
+\selectlanguageifdefined{russian}
+Retrieval-Augmented Generation for Knowledge-Intensive {NLP} Tasks~/ P.~Lewis,
+  E.~Perez, A.~Piktus {[и~др.]}~// Advances in NeurIPS.
+\newblock 2020.
+\newblock Т.~33.
+\newblock {С.}~9459--9474.{}
+
+\bibitem{ref36}
+\selectlanguageifdefined{russian}
+Self-{RAG}: Learning to Retrieve, Generate, and Critique through
+  Self-Reflection~/ A.~Asai, Z.~Wu, Y.~Wang {[и~др.]}~// Proceedings of ICLR
+  2024.
+\newblock 2024.{}
+
+\bibitem{ref37}
+\selectlanguageifdefined{russian}
+Yan~S.-Q., Gu~J.-C., Zhu~Y. {[и~др.]}. Corrective Retrieval Augmented
+  Generation.
+\newblock arXiv preprint arXiv:2401.15884.
+\newblock 2024.{}
+
+\bibitem{ref38}
+\selectlanguageifdefined{russian}
+{RAGAs}: Automated Evaluation of Retrieval Augmented Generation~/ S.~Es,
+  J.~James, L.~Espinosa~Anke {[и~др.]}~// Proceedings of EACL: System
+  Demonstrations.
+\newblock 2024.
+\newblock {С.}~150--158.{}
+
+\bibitem{ref39}
+\selectlanguageifdefined{russian}
+Gao~Y., Xiong~Y., Gao~X. {[и~др.]}. Retrieval-Augmented Generation for Large
+  Language Models: A Survey.
+\newblock arXiv preprint arXiv:2312.10997.
+\newblock 2024.{}
+
+\bibitem{ref12}
+\selectlanguageifdefined{russian}
+Cheon~J.~H. {[и~др.]}. Homomorphic Encryption for Arithmetic of Approximate
+  Numbers~// Proceedings of ASIACRYPT.
+\newblock Springer, 2017.
+\newblock {С.}~409--437.{}
+
+\bibitem{ref46}
+\selectlanguageifdefined{russian}
+Homomorphic Encryption for Arithmetic of Approximate Numbers~/ J.~H.~Cheon,
+  A.~Kim, M.~Kim {[и~др.]}~// Advances in Cryptology --- ASIACRYPT 2017.
+\newblock Cham: Springer, 2017.
+\newblock Т.~10624 {из} \BibEmph{Lecture Notes in Computer Science}.
+\newblock {С.}~409--437.{}
+
+\bibitem{ref48}
+\selectlanguageifdefined{russian}
+Bootstrapping for Approximate Homomorphic Encryption~/ J.~H.~Cheon, K.~Han,
+  A.~Kim {[и~др.]}~// Advances in Cryptology --- EUROCRYPT 2018.
+\newblock Cham: Springer, 2018.
+\newblock Т.~10820 {из} \BibEmph{Lecture Notes in Computer Science}.
+\newblock {С.}~360--384.{}
+
+\bibitem{ref47}
+\selectlanguageifdefined{russian}
+{OpenFHE}: Open-Source Fully Homomorphic Encryption Library~/ A.~Al~Badawi,
+  J.~Bates, F.~Bergamaschi {[и~др.]}~// Proceedings of WAHC '22, co-located
+  with CCS.
+\newblock ACM, 2022.
+\newblock {С.}~53--63.{}
+
+\bibitem{ref50}
+\selectlanguageifdefined{russian}
+{CryptoNets}: Applying Neural Networks to Encrypted Data with High Throughput
+  and Accuracy~/ R.~Gilad-Bachrach, N.~Dowlin, K.~Laine {[и~др.]}~//
+  Proceedings of ICML 2016, PMLR.
+\newblock Т.~48.
+\newblock 2016.
+\newblock {С.}~201--210.{}
+
+\bibitem{ref13}
+\selectlanguageifdefined{russian}
+Albrecht~M.~R. {[и~др.]}. Homomorphic Encryption Security Standard: Tech.
+  Rep.:
+\newblock Toronto: HomomorphicEncryption.org, 2018.{}
+
+\bibitem{ref51}
+\selectlanguageifdefined{russian}
+Homomorphic Encryption Security Standard: Tech. Rep.: ~/ M.~Albrecht, M.~Chase,
+  H.~Chen {[и~др.]}.
+\newblock Toronto: HomomorphicEncryption.org, 2018.{}
+
+\bibitem{ref49}
+\selectlanguageifdefined{russian}
+Over 100x Faster Bootstrapping in Fully Homomorphic Encryption through
+  Memory-centric Optimization with {GPUs}~/ W.~Jung, S.~Kim, J.~H.~Ahn
+  {[и~др.]}~// IACR Transactions on Cryptographic Hardware and Embedded
+  Systems (TCHES).
+\newblock 2021.
+\newblock Т. 2021, {№}~4.
+\newblock {С.}~114--148.{}
+
+\bibitem{ref52}
+\selectlanguageifdefined{russian}
+Deep Learning with Differential Privacy~/ M.~Abadi, A.~Chu, I.~Goodfellow
+  {[и~др.]}~// Proceedings of ACM CCS.
+\newblock ACM, 2016.
+\newblock {С.}~308--318.{}
+
+\bibitem{ref53}
+\selectlanguageifdefined{russian}
+Mironov~I. Renyi Differential Privacy~// 2017 IEEE 30th Computer Security
+  Foundations Symposium (CSF).
+\newblock IEEE, 2017.
+\newblock {С.}~263--275.{}
+
+\bibitem{ref54}
+\selectlanguageifdefined{russian}
+Communication-Efficient Learning of Deep Networks from Decentralized Data~/
+  H.~B.~McMahan, E.~Moore, D.~Ramage {[и~др.]}~// Proceedings of AISTATS,
+  PMLR.
+\newblock Т.~54.
+\newblock 2017.
+\newblock {С.}~1273--1282.{}
+
+\bibitem{ref14}
+\selectlanguageifdefined{russian}
+Sparck~Jones~K. A Statistical Interpretation of Term Specificity and Its
+  Application in Retrieval~// Journal of Documentation.
+\newblock 1972.
+\newblock Т.~28, {№}~1.
+\newblock {С.}~11--21.{}
+
+\bibitem{ref15}
+\selectlanguageifdefined{russian}
+Robertson~S.~E., Zaragoza~H. The Probabilistic Relevance Framework: {BM25} and
+  Beyond~// Foundations and Trends in Information Retrieval.
+\newblock 2009.
+\newblock Т.~3, {№}~4.
+\newblock {С.}~333--389.{}
+
+\bibitem{ref16}
+\selectlanguageifdefined{russian}
+Mikolov~T. {[и~др.]}. Distributed Representations of Words and Phrases and
+  their Compositionality~// Proceedings of NeurIPS.
+\newblock 2013.
+\newblock {С.}~3111--3119.{}
+
+\bibitem{ref18}
+\selectlanguageifdefined{russian}
+Malkov~Y.~A., Yashunin~D.~A. Efficient and Robust Approximate Nearest Neighbor
+  Search Using Hierarchical Navigable Small World Graphs~// IEEE Transactions
+  on Pattern Analysis and Machine Intelligence.
+\newblock 2020.
+\newblock Т.~42, {№}~4.
+\newblock {С.}~824--836.{}
+
+\bibitem{ref33}
+\selectlanguageifdefined{russian}
+Milvus: A Purpose-Built Vector Data Management System~/ J.~Wang, X.~Yi, R.~Guo
+  {[и~др.]}~// Proceedings of SIGMOD.
+\newblock ACM, 2021.
+\newblock {С.}~2614--2627.{}
+
+\bibitem{ref19}
+\selectlanguageifdefined{russian}
+Ni~J. {[и~др.]}. Large Dual Encoders Are Generalizable Retrievers~//
+  Proceedings of EMNLP.
+\newblock 2022.
+\newblock {С.}~9844--9855.{}
+
+\bibitem{ref31}
+\selectlanguageifdefined{russian}
+{BEIR}: A Heterogeneous Benchmark for Zero-shot Evaluation of Information
+  Retrieval Models~/ N.~Thakur, N.~Reimers, A.~Ruckle {[и~др.]}~//
+  Proceedings of NeurIPS Track on Datasets and Benchmarks.
+\newblock 2021.{}
+
+\bibitem{ref32}
+\selectlanguageifdefined{russian}
+{MTEB}: Massive Text Embedding Benchmark~/ N.~Muennighoff, N.~Tazi, L.~Magne
+  {[и~др.]}~// Proceedings of EACL.
+\newblock 2023.
+\newblock {С.}~2014--2037.{}
+
+\bibitem{ref20}
+\selectlanguageifdefined{russian}
+{McKinsey \& Company}. The State of {AI} in 2025: From Pilots to Scale: Tech.
+  Rep.: : 2025.{}
+
+\bibitem{ref43}
+\selectlanguageifdefined{russian}
+Exploiting Unintended Feature Leakage in Collaborative Learning~/ L.~Melis,
+  C.~Song, E.~De~Cristofaro {[и~др.]}~// 2019 IEEE Symposium on Security and
+  Privacy (SP).
+\newblock IEEE, 2019.
+\newblock {С.}~691--706.{}
+
+\bibitem{ref44}
+\selectlanguageifdefined{russian}
+{TextAttack}: A Framework for Adversarial Attacks, Data Augmentation, and
+  Adversarial Training in {NLP}~/ J.~X.~Morris, E.~Lifland, J.~Y.~Yoo
+  {[и~др.]}~// Proceedings of EMNLP: System Demonstrations.
+\newblock 2020.
+\newblock {С.}~119--126.{}
+
+\bibitem{ref21}
+\selectlanguageifdefined{russian}
+Papineni~K. {[и~др.]}. {BLEU}: a Method for Automatic Evaluation of Machine
+  Translation~// Proceedings of ACL.
+\newblock 2002.
+\newblock {С.}~311--318.{}
+
+\bibitem{ref62}
+\selectlanguageifdefined{russian}
+Астахова~Л.~В., Султанов~Д.~Р., Ашихмин~Н.~А.
+  Защита облачной базы персональных данных
+  с~использованием гомоморфного
+  шифрования~// Вестник ЮУрГУ. Серия
+  <<Компьютерные технологии, управление,
+  радиоэлектроника>>.
+\newblock 2016.
+\newblock Т.~16, {№}~3.
+\newblock {С.}~52--61.{}
+
+\bibitem{ref60}
+\selectlanguageifdefined{russian}
+ГОСТ 34.12-2018. Информационная технология.
+  Криптографическая защита информации.
+  Блочные шифры: межгосударственный
+  стандарт.
+\newblock 2019.
+\newblock 18~с.{}
+
+\bibitem{ref66}
+\selectlanguageifdefined{russian}
+{EVA}: An Encrypted Vector Arithmetic Language and Compiler for Efficient
+  Homomorphic Computation~/ R.~Dathathri, B.~Kostova, O.~Saarikivi
+  {[и~др.]}~// Proceedings of the 41st ACM SIGPLAN Conference on Programming
+  Language Design and Implementation (PLDI).
+\newblock 2020.
+\newblock {С.}~546--561.{}
+
+\bibitem{ref67}
+\selectlanguageifdefined{russian}
+{CHET}: An Optimizing Compiler for Fully-Homomorphic Neural-Network
+  Inferencing~/ R.~Dathathri, O.~Saarikivi, H.~Chen {[и~др.]}~// Proceedings
+  of the 40th ACM SIGPLAN Conference on Programming Language Design and
+  Implementation (PLDI).
+\newblock 2019.
+\newblock {С.}~142--156.{}
+
+\bibitem{ref68}
+\selectlanguageifdefined{russian}
+Optimizations of {FHE} parameter selection for {ML}-as-a-service workloads~/
+  J.~Lee, E.~Lee, J.-S.~No {[и~др.]}~// arXiv preprint arXiv:2202.07763.
+\newblock 2022.{}
+
+\bibitem{ref63}
+\selectlanguageifdefined{russian}
+Liu~K., Kargupta~H., Ryan~J. Random Projection-Based Multiplicative Data
+  Perturbation for Privacy Preserving Distributed Data Mining~// IEEE
+  Transactions on Knowledge and Data Engineering.
+\newblock Т.~18.
+\newblock 2006.
+\newblock {С.}~92--106.{}
+
+\bibitem{ref64}
+\selectlanguageifdefined{russian}
+{SnapToGrid}: From Statistical to Interpretable Models for Biomedical Data~/
+  G.~Plumb, D.~Pachauri, R.~Kondor {[и~др.]}~// arXiv preprint
+  arXiv:1804.10840.
+\newblock 2018.{}
+
+\bibitem{ref69}
+\selectlanguageifdefined{russian}
+Tishby~N., Pereira~F.~C., Bialek~W. The information bottleneck method~// arXiv
+  preprint physics/0004057.
+\newblock 2000.{}
+
+\bibitem{ref74}
+\selectlanguageifdefined{russian}
+{Intel HEXL}: Accelerating Homomorphic Encryption with {Intel AVX512-IFMA52}~/
+  F.~Boemer, S.~Kim, G.~Seifu {[и~др.]}~// Proceedings of the 9th on
+  Workshop on Encrypted Computing \& Applied Homomorphic Cryptography ({WAHC
+  '21}).
+\newblock 2021.
+\newblock {С.}~57--62.
+\newblock arXiv:2103.16400.{}
+
+\bibitem{ref72}
+\selectlanguageifdefined{russian}
+Private Web Search with {Tiptoe}~/ A.~Henzinger, E.~Dauterman,
+  H.~Corrigan-Gibbs {[и~др.]}~// Proceedings of the 29th ACM Symposium on
+  Operating Systems Principles ({SOSP}).
+\newblock 2023.{}
+
+\bibitem{ref17}
+\selectlanguageifdefined{russian}
+Vaswani~A. {[и~др.]}. Attention Is All You Need~// Proceedings of NeurIPS.
+\newblock 2017.
+\newblock {С.}~5998--6008.{}
+
+\bibitem{ref22}
+\selectlanguageifdefined{russian}
+Dwork~C. Differential Privacy~// Proceedings of ICALP.
+\newblock Springer, 2006.
+\newblock {С.}~1--12.{}
+
+\bibitem{ref23}
+\selectlanguageifdefined{russian}
+Johnson~W.~B., Lindenstrauss~J. Extensions of Lipschitz Mappings into a Hilbert
+  Space~// Contemporary Mathematics.
+\newblock 1984.
+\newblock Т.~26.
+\newblock {С.}~189--206.{}
+
+\bibitem{ref24}
+\selectlanguageifdefined{russian}
+Eckart~C., Young~G. The Approximation of One Matrix by Another of Lower Rank~//
+  Psychometrika.
+\newblock 1936.
+\newblock Т.~1, {№}~3.
+\newblock {С.}~211--218.{}
+
+\bibitem{ref25}
+\selectlanguageifdefined{russian}
+Chen~T., Guestrin~C. {XGBoost}: A Scalable Tree Boosting System~// Proceedings
+  of KDD.
+\newblock ACM, 2016.
+\newblock {С.}~785--794.{}
+
+\bibitem{ref26}
+\selectlanguageifdefined{russian}
+Friedman~J.~H. Greedy Function Approximation: A Gradient Boosting Machine~//
+  Annals of Statistics.
+\newblock 2001.
+\newblock Т.~29, {№}~5.
+\newblock {С.}~1189--1232.{}
+
+\bibitem{ref27}
+\selectlanguageifdefined{russian}
+{Минобрнауки РФ}. Паспорт научной
+  специальности 2.3.1. Системный анализ,
+  управление и~обработка информации,
+  статистика.{}
+
+\bibitem{ref55}
+\selectlanguageifdefined{russian}
+Lyu~L., He~X., Li~Y. Differentially Private Representation for {NLP}: Formal
+  Guarantee and An Empirical Study on Privacy and Fairness~// Findings of
+  EMNLP.
+\newblock 2020.
+\newblock {С.}~2355--2365.{}
+
+\bibitem{ref56}
+\selectlanguageifdefined{russian}
+Privacy via the Johnson-Lindenstrauss Transform~/ K.~Kenthapadi, A.~Korolova,
+  I.~Mironov {[и~др.]}~// Journal of Privacy and Confidentiality.
+\newblock 2013.
+\newblock Т.~5, {№}~1.{}
+
+\bibitem{ref57}
+\selectlanguageifdefined{russian}
+Andoni~A., Indyk~P. Near-Optimal Hashing Algorithms for Approximate Nearest
+  Neighbor in High Dimensions~// Communications of the ACM.
+\newblock 2008.
+\newblock Т.~51, {№}~1.
+\newblock {С.}~117--122.{}
+
+\bibitem{ref58}
+\selectlanguageifdefined{russian}
+Jegou~H., Douze~M., Schmid~C. Product Quantization for Nearest Neighbor
+  Search~// IEEE Transactions on Pattern Analysis and Machine Intelligence
+  (TPAMI).
+\newblock 2011.
+\newblock Т.~33, {№}~1.
+\newblock {С.}~117--128.{}
+
+\bibitem{ref70}
+\selectlanguageifdefined{russian}
+{PIR} with Compressed Queries and Amortized Query Processing~/ S.~Angel,
+  H.~Chen, K.~Laine {[и~др.]}~// Proceedings of the IEEE Symposium on
+  Security and Privacy ({SealPIR}).
+\newblock 2018.
+\newblock {С.}~962--979.{}
+
+\bibitem{ref71}
+\selectlanguageifdefined{russian}
+One Server for the Price of Two: Simple and Fast Single-Server Private
+  Information Retrieval ({SimplePIR})~/ A.~Henzinger, M.~M.~Hong,
+  H.~Corrigan-Gibbs {[и~др.]}~// Proceedings of the 32nd USENIX Security
+  Symposium.
+\newblock 2023.{}
+
+\bibitem{ref73}
+\selectlanguageifdefined{russian}
+Mughees~M.~H., Chen~H., Ren~L. {OnionPIR}: Response Efficient Single-Server
+  {PIR}~// Proceedings of the 2021 ACM {SIGSAC} Conference on Computer and
+  Communications Security ({CCS}).
+\newblock 2021.
+\newblock {С.}~2292--2306.{}
+
+\end{thebibliography}
